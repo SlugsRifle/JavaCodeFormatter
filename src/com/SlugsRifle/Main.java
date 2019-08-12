@@ -1,10 +1,9 @@
 package com.SlugsRifle;
 
-public class Main {
+import java.util.Scanner;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class Main                              {
 
-	}
-
-}
+	public static void main(String[] args)     {
+		Scanner sc = new Scanner(System.in)    ;
+		sc.close()                             ;}}
